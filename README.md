@@ -60,4 +60,4 @@
 [:arrow_up:](#map)
 
 ## **PROJECTS**
-[:arrow_right:](https://github.com/IamGO0D?tab=repositories)
+[:arrow_right:](https://github.com/IamGOOD20?tab=repositories)

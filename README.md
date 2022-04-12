@@ -1,6 +1,6 @@
  # **Рукшенас Євген** 
 ## **Junior Python Developer**
-<img src="0-02-05-93bffaf2d195640b0cb1e22abca7eb54c7c4821865791ae90348d6ea2062d6fe_f0f0ed0747b6ed03.jpg" width = 400px>
+<img src="https://github.com/IamGOOD20/IamGOOD20/blob/main/RE.jpeg.jpg" width = 400px>
 
 ## **MAP**
 - [**контакти**](#contakts)

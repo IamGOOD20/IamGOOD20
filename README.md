@@ -5,10 +5,11 @@
 ## **MAP**
 - [**контакти**](#contakts)
 - [**про мене**](#myself)
-- [**освіта**](#education)
+- [**проекти**](#projects)
 - [**skills**](#skills)
 - [**досвід роботи**](#experience)
-- [**проекти**](#projects)
+- [**освіта**](#education)
+
 
 
 ## **CONTAKTS**

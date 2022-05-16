@@ -39,7 +39,11 @@
 
 ## **SKILLS**
 - Python
-- SQL, MySQL
+- SQL
+- API
+- HTTP
+- JSON, CSV
+- Git
 
 [:arrow_up:](#map)
 
